@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eqqoonbPoG2gZJX/3aDh0YdOfsqIZbz/ERl2ch4kNTc=",
+  "Source": "EmailSenderMq",
+  "BasePath": "_content/EmailSenderMq",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
